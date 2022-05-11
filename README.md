@@ -1,3 +1,3 @@
 # My_Certifications
 
-This repo provide the Url for my certifcates. 
+This repo provides the Urls for my certifcates. 
